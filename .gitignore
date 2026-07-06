@@ -1,0 +1,23 @@
+# R and RStudio session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Local environment and credentials
+.Renviron
+.env
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Large generated data files reproducible from scripts
+data/raw/artificial_corpus.csv
+data/processed/token_surprisal.csv
+data/processed/critical_surprisal.csv
+
+# Temporary files
+*.tmp
+*.bak
+~$*
