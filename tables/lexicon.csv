@@ -1,0 +1,19 @@
+token,category,subclass,meaning_note
+mab,N1,agent,agent noun 1
+tuk,N1,agent,agent noun 2
+zep,N1,agent,agent noun 3
+lom,N1,agent,agent noun 4
+kif,N2,theme,theme noun 1
+sol,N2,theme,theme noun 2
+nup,N2,theme,theme noun 3
+teg,N2,theme,theme noun 4
+ven,FILLER,filler,intervening token 1
+sor,FILLER,filler,intervening token 2
+dum,FILLER,filler,intervening token 3
+pal,FILLER,filler,intervening token 4
+ga,MARKER,A_cue,predicts class-A verbs
+lu,MARKER,B_cue,predicts class-B verbs
+dak,VERB,A,class-A verb 1
+pil,VERB,A,class-A verb 2
+rof,VERB,B,class-B verb 1
+nem,VERB,B,class-B verb 2

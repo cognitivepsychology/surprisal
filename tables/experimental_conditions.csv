@@ -1,0 +1,7 @@
+regularity,dependency,regularity_label,condition_id
+1,adjacent,high_100,high_100__adjacent
+1,nonadjacent,high_100,high_100__nonadjacent
+0.8,adjacent,mid_80,mid_80__adjacent
+0.8,nonadjacent,mid_80,mid_80__nonadjacent
+0.6,adjacent,low_60,low_60__adjacent
+0.6,nonadjacent,low_60,low_60__nonadjacent
